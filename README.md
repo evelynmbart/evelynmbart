@@ -1,7 +1,7 @@
 <h2 align="center"><samp>Hi there 👋, I'm Evelyn</samp></h2>
 
 - 🔭 I’m currently looking for new opportunities.
-- 👩🏻‍🎨 Lately, I've been... [l'evelyn up]([url](https://levelynup.com/))!
+- 👩🏻‍🎨 Lately, I've been... [l'evelyn up](https://levelynup.com/)!
 - 📫 How to reach me: [email](mailto:evelyn.m.bart@gmail.com), [linkedin](www.linkedin.com/in/evelyn-bart-a469a4288)
 - 😄 Pronouns: she/her
 
